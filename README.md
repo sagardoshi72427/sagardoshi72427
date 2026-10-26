@@ -10,10 +10,10 @@
 
 <a href="https://www.meghrajtechnosoft.com"><img src="https://img.shields.io/badge/Meghraj%20Technosoft-Technology%20Partner-C62828?style=for-the-badge" alt="Meghraj Technosoft"/></a>
 <a href="https://www.nexoraiq.tech/"><img src="https://img.shields.io/badge/NexorAIQ-AI%20Commerce%20Search-6D4AFF?style=for-the-badge" alt="NexorAIQ"/></a>
-<a href="https://talkly.ai.in/"><img src="https://img.shields.io/badge/TalklyAI-Voice%20AI-27834A?style=for-the-badge" alt="TalklyAI"/></a>
+<a href="https://talklyai.in/"><img src="https://img.shields.io/badge/TalklyAI-Voice%20AI-27834A?style=for-the-badge" alt="TalklyAI"/></a>
 <a href="https://jainsphere.in/"><img src="https://img.shields.io/badge/JainSphere-Community%20Platform-9B6A32?style=for-the-badge" alt="JainSphere"/></a>
 
-[GitHub Projects](https://github.com/sagardoshi72427?tab=repositories) · [LinkedIn](https://www.linkedin.com/company/13464927/) · [NexorAIQ](https://www.nexoraiq.tech/) · [TalklyAI](https://talkly.ai.in/) · [JainSphere](https://jainsphere.in/)
+[GitHub Projects](https://github.com/sagardoshi72427?tab=repositories) · [LinkedIn](https://www.linkedin.com/company/13464927/) · [NexorAIQ](https://www.nexoraiq.tech/) · [TalklyAI](https://talklyai.in/) · [JainSphere](https://jainsphere.in/)
 
 </div>
 
@@ -46,11 +46,11 @@ I connect business goals with practical engineering—designing maintainable pla
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://talkly.ai.in/">TalklyAI</a></h3>
+<h3><a href="https://talklyai.in/">TalklyAI</a></h3>
 <p><strong>AI voice agents that talk, understand, and act</strong></p>
 <p>Developing a voice-AI product direction for business conversations and workflow automation, with Indian-language use cases such as Hindi and Gujarati.</p>
 <p><strong>Focus:</strong> conversational voice AI · speech technologies · telephony · business workflows</p>
-<p><a href="https://talkly.ai.in/"><img src="https://img.shields.io/badge/Visit%20TalklyAI-27834A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit TalklyAI"/></a></p>
+<p><a href="https://talklyai.in/"><img src="https://img.shields.io/badge/Visit%20TalklyAI-27834A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit TalklyAI"/></a></p>
 
 </td>
 </tr>
@@ -137,7 +137,7 @@ I value clear technical decisions, maintainable code, reliable integrations, and
 - **GitHub:** [@sagardoshi72427](https://github.com/sagardoshi72427)
 - **Meghraj Technosoft:** [LinkedIn company page](https://www.linkedin.com/company/13464927/)
 - **NexorAIQ:** [nexoraiq.tech](https://www.nexoraiq.tech/)
-- **TalklyAI:** [talkly.ai.in](https://talkly.ai.in/)
+- **TalklyAI:** [talklyai.in](https://talklyai.in/)
 - **JainSphere:** [jainsphere.in](https://jainsphere.in/)
 
 ---
