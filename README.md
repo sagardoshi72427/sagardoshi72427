@@ -140,7 +140,8 @@ Available for conversations and project opportunities involving AI automation, M
 - **NexorAIQ:** [nexoraiq.tech](https://www.nexoraiq.tech/)
 - **TalklyAI:** [talklyai.in](https://talklyai.in/)
 - **JainSphere:** [jainsphere.in](https://jainsphere.in/)
-- **WhatsApp / mobile:** Not listed publicly until a number is provided.
+- **Mobile:** [+91 88662 60779](tel:+918866260779)
+- **WhatsApp:** [Chat on WhatsApp](https://wa.me/918866260779)
 
 ---
 
