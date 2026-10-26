@@ -130,18 +130,25 @@ I focus on practical outcomes, clear architecture, maintainable code, responsibl
 
 ## Let's Connect
 
-Available for conversations and project opportunities involving AI automation, MCP integrations, n8n workflows, AI search, voice AI, Magento / headless commerce, React / Next.js, Laravel / Node.js, and solution architecture.
+Available for conversations and project opportunities involving AI automation, MCP integrations, n8n workflows, AI search, voice AI, Magento / headless commerce, React / Next.js, Python, LangChain, Laravel / Node.js, and solution architecture.
 
-- **GitHub:** [@sagardoshi72427](https://github.com/sagardoshi72427)
-- **Company website:** [Meghraj Technosoft](https://www.meghrajtechnosoft.com/)
-- **LinkedIn:** [Meghraj Technosoft](https://www.linkedin.com/company/13464927/)
-- **Instagram:** [@nexoraiqtech](https://www.instagram.com/nexoraiqtech/)
-- **Facebook:** [NexorAIQTech](https://www.facebook.com/NexorAIQTech/)
+<div align="center">
+
+<a href="https://github.com/sagardoshi72427"><img src="https://img.shields.io/badge/GitHub-sagardoshi72427-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+<a href="https://www.linkedin.com/in/sagardoshi2020/"><img src="https://img.shields.io/badge/LinkedIn-Sagar%20Doshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
+<a href="https://www.linkedin.com/company/13464927/"><img src="https://img.shields.io/badge/Company-Meghraj%20Technosoft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meghraj Technosoft LinkedIn"/></a>
+<a href="https://www.instagram.com/nexoraiqtech/"><img src="https://img.shields.io/badge/Instagram-%40nexoraiqtech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.facebook.com/NexorAIQTech/"><img src="https://img.shields.io/badge/Facebook-NexorAIQTech-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://wa.me/918866260779"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://www.meghrajtechnosoft.com/"><img src="https://img.shields.io/badge/Website-Meghraj%20Technosoft-333333?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Meghraj Technosoft website"/></a>
+
+</div>
+
+- **Mobile:** [+91 88662 60779](tel:+918866260779)
+- **WhatsApp:** [+91 88662 60779](https://wa.me/918866260779)
 - **NexorAIQ:** [nexoraiq.tech](https://www.nexoraiq.tech/)
 - **TalklyAI:** [talklyai.in](https://talklyai.in/)
 - **JainSphere:** [jainsphere.in](https://jainsphere.in/)
-- **Mobile:** [+91 88662 60779](tel:+918866260779)
-- **WhatsApp:** [Chat on WhatsApp](https://wa.me/918866260779)
 
 ---
 
