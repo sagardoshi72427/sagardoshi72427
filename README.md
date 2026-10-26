@@ -133,10 +133,14 @@ I focus on practical outcomes, clear architecture, maintainable code, responsibl
 Available for conversations and project opportunities involving AI automation, MCP integrations, n8n workflows, AI search, voice AI, Magento / headless commerce, React / Next.js, Laravel / Node.js, and solution architecture.
 
 - **GitHub:** [@sagardoshi72427](https://github.com/sagardoshi72427)
-- **Company:** [Meghraj Technosoft on LinkedIn](https://www.linkedin.com/company/13464927/)
+- **Company website:** [Meghraj Technosoft](https://www.meghrajtechnosoft.com/)
+- **LinkedIn:** [Meghraj Technosoft](https://www.linkedin.com/company/13464927/)
+- **Instagram:** [@nexoraiqtech](https://www.instagram.com/nexoraiqtech/)
+- **Facebook:** [NexorAIQTech](https://www.facebook.com/NexorAIQTech/)
 - **NexorAIQ:** [nexoraiq.tech](https://www.nexoraiq.tech/)
 - **TalklyAI:** [talklyai.in](https://talklyai.in/)
 - **JainSphere:** [jainsphere.in](https://jainsphere.in/)
+- **WhatsApp / mobile:** Not listed publicly until a number is provided.
 
 ---
 
