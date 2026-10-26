@@ -1,35 +1,50 @@
-<!-- Sagar Doshi | Professional GitHub Profile -->
+<!-- Sagar Doshi | Public Professional Portfolio -->
 
 <div align="center">
 
 # Sagar Doshi
 
-### Technology Leader · Full-Stack Architect · AI Product Builder
+### AI Solutions & Automation · Technology Leadership · Full-Stack Engineering
 
-**15+ years of experience** building enterprise software, commerce platforms, AI-powered products, and business automation solutions.
+**15+ years of software engineering experience** building enterprise commerce platforms, AI-enabled products, integrations, and business automation workflows.
 
-<a href="https://www.meghrajtechnosoft.com"><img src="https://img.shields.io/badge/Meghraj%20Technosoft-Technology%20Partner-C62828?style=for-the-badge" alt="Meghraj Technosoft"/></a>
 <a href="https://www.nexoraiq.tech/"><img src="https://img.shields.io/badge/NexorAIQ-AI%20Commerce%20Search-6D4AFF?style=for-the-badge" alt="NexorAIQ"/></a>
-<a href="https://talklyai.in/"><img src="https://img.shields.io/badge/TalklyAI-Voice%20AI-27834A?style=for-the-badge" alt="TalklyAI"/></a>
-<a href="https://jainsphere.in/"><img src="https://img.shields.io/badge/JainSphere-Community%20Platform-9B6A32?style=for-the-badge" alt="JainSphere"/></a>
+<a href="https://talklyai.in/"><img src="https://img.shields.io/badge/TalklyAI-AI%20Voice%20Agents-27834A?style=for-the-badge" alt="TalklyAI"/></a>
+<a href="https://jainsphere.in/"><img src="https://img.shields.io/badge/JainSphere-Digital%20Community-9B6A32?style=for-the-badge" alt="JainSphere"/></a>
 
-[GitHub Projects](https://github.com/sagardoshi72427?tab=repositories) · [LinkedIn](https://www.linkedin.com/company/13464927/) · [NexorAIQ](https://www.nexoraiq.tech/) · [TalklyAI](https://talklyai.in/) · [JainSphere](https://jainsphere.in/)
+[GitHub Projects](https://github.com/sagardoshi72427?tab=repositories) · [Meghraj Technosoft](https://www.linkedin.com/company/13464927/) · [NexorAIQ](https://www.nexoraiq.tech/) · [TalklyAI](https://talklyai.in/) · [JainSphere](https://jainsphere.in/)
 
 </div>
 
 ---
 
-## About Me
+## Professional Summary
 
-I’m a hands-on technology professional and engineering leader with **15+ years of experience** across solution architecture, full-stack development, e-commerce engineering, system integrations, and product delivery.
+I’m a technology professional, solution architect, and hands-on engineering leader with **15+ years of experience** delivering software across AI and automation, e-commerce, full-stack web development, APIs, integrations, and digital product engineering.
 
-I connect business goals with practical engineering—designing maintainable platforms, guiding frontend and backend delivery, integrating systems, and applying AI to real customer and operational workflows.
+My current focus is applying AI to practical business problems: connecting models to tools, automating workflows, improving product discovery, enabling voice-based customer interactions, and building reliable integrations with existing business systems. I also bring deep experience in enterprise commerce and full-stack implementation, which helps turn AI concepts into useful, maintainable products.
 
-- **Technology leadership:** architecture, technical direction, delivery planning, and engineering problem-solving.
-- **Enterprise commerce:** Magento 2, GraphQL, headless storefronts, and integrations.
-- **Full-stack engineering:** web applications, APIs, mobile experiences, and multi-tenant platforms.
-- **AI products:** commerce search, voice agents, conversational workflows, and AI-assisted operations.
-- **Automation & developer tools:** MCP, n8n, Hermes, Grokbot, workflow automation, and infrastructure integrations.
+**What I can help with**
+- AI workflow automation, agent/tool integrations, and MCP-based solutions
+- n8n workflows, webhooks, API orchestration, and process automation
+- AI-powered product search, semantic retrieval, RAG concepts, and discovery experiences
+- AI voice-agent concepts and integrations for business conversations
+- Magento 2 / Adobe Commerce, headless commerce, GraphQL, and merchant workflows
+- React / Next.js frontends, Laravel / Node.js backends, and multi-tenant applications
+- Solution architecture, technical leadership, debugging, and production delivery
+
+## AI, Agents & Automation
+
+| Capability | Practical applications |
+|---|---|
+| **Model Context Protocol (MCP)** | Connect AI clients and agents with structured tools, APIs, commerce operations, and infrastructure. Projects include a [Magento MCP Server](https://github.com/sagardoshi72427/magento2-mcp-server) and [SSH MCP](https://github.com/sagardoshi72427/ssh-mcp). |
+| **n8n Workflow Automation** | Build workflows using triggers, webhooks, API calls, data transformation, branching, and AI steps to reduce repetitive manual work. |
+| **Hermes Agent** | Explore agentic assistants, tool use, and repeatable technical or operational workflows. See the [Hermes AI stack repository](https://github.com/sagardoshi72427/hermes-ai-stack). |
+| **Grokbot / Bot Integrations** | Explore bot-based conversational experiences and task automation where supported by the selected platform and integration. |
+| **AI Automation** | Combine LLMs, business rules, APIs, and human review to streamline support, operations, data processing, and internal workflows. |
+| **AI Search & RAG** | Use retrieval, embeddings, semantic matching, and contextual grounding to make information and product discovery more relevant. |
+| **AI Voice Experiences** | Explore voice-agent workflows, speech services, telephony integrations, and Indian-language scenarios for Hindi and Gujarati. |
+| **AI Tooling & Infrastructure** | Integrate AI tools with services and controlled infrastructure workflows; design for access control, validation, observability, and safe execution. |
 
 ## Product Portfolio
 
@@ -39,18 +54,18 @@ I connect business goals with practical engineering—designing maintainable pla
 
 <h3><a href="https://www.nexoraiq.tech/">NexorAIQ</a></h3>
 <p><strong>AI-powered product discovery for modern commerce</strong></p>
-<p>Building an intelligent search experience focused on shopper intent, relevant product discovery, multilingual search, and merchant control.</p>
-<p><strong>Focus:</strong> semantic search · hybrid retrieval · product relevance · multilingual discovery · merchandising</p>
-<p><a href="https://www.nexoraiq.tech/"><img src="https://img.shields.io/badge/Visit%20NexorAIQ-6D4AFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit NexorAIQ"/></a></p>
+<p>An AI commerce search initiative focused on shopper intent, relevant product discovery, multilingual search, and merchant control.</p>
+<p><strong>Focus:</strong> semantic and hybrid search · product relevance · multilingual discovery · merchandising</p>
+<p><a href="https://www.nexoraiq.tech/"><img src="https://img.shields.io/badge/Explore%20NexorAIQ-6D4AFF?style=for-the-badge" alt="Explore NexorAIQ"/></a></p>
 
 </td>
 <td width="50%" valign="top">
 
 <h3><a href="https://talklyai.in/">TalklyAI</a></h3>
 <p><strong>AI voice agents that talk, understand, and act</strong></p>
-<p>Developing a voice-AI product direction for business conversations and workflow automation, with Indian-language use cases such as Hindi and Gujarati.</p>
-<p><strong>Focus:</strong> conversational voice AI · speech technologies · telephony · business workflows</p>
-<p><a href="https://talklyai.in/"><img src="https://img.shields.io/badge/Visit%20TalklyAI-27834A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit TalklyAI"/></a></p>
+<p>A voice-AI product initiative for business conversations and workflow automation, with Indian-language use cases such as Hindi and Gujarati.</p>
+<p><strong>Focus:</strong> conversational voice AI · speech technology · telephony · business workflows</p>
+<p><a href="https://talklyai.in/"><img src="https://img.shields.io/badge/Explore%20TalklyAI-27834A?style=for-the-badge" alt="Explore TalklyAI"/></a></p>
 
 </td>
 </tr>
@@ -59,83 +74,66 @@ I connect business goals with practical engineering—designing maintainable pla
 
 <h3><a href="https://jainsphere.in/">JainSphere</a></h3>
 <p><strong>Digital experiences for the Jain community</strong></p>
-<p>A community-oriented digital product initiative. Visit the landing page for the product overview and explore the repository for current implementation details.</p>
-<p><a href="https://jainsphere.in/"><img src="https://img.shields.io/badge/Visit%20JainSphere-9B6A32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit JainSphere"/></a></p>
+<p>A community-focused digital product initiative. Visit the landing page for the product overview and repository for implementation details.</p>
+<p><a href="https://jainsphere.in/"><img src="https://img.shields.io/badge/Explore%20JainSphere-9B6A32?style=for-the-badge" alt="Explore JainSphere"/></a></p>
 
 </td>
 <td width="50%" valign="top">
 
 <h3><a href="https://github.com/sagardoshi72427/magento2-mcp-server">Magento MCP Server</a></h3>
-<p><strong>AI tools for commerce workflows</strong></p>
-<p>Exploring MCP integration patterns to expose Magento capabilities through structured tool interfaces for AI-assisted workflows.</p>
-<p><a href="https://github.com/sagardoshi72427/magento2-mcp-server"><img src="https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Magento MCP Server repository"/></a></p>
+<p><strong>Commerce capabilities for AI tools</strong></p>
+<p>An MCP integration project exploring structured tool access to Magento capabilities for AI-assisted workflows.</p>
+<p><a href="https://github.com/sagardoshi72427/magento2-mcp-server"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Magento MCP Server"/></a></p>
 
 </td>
 </tr>
 </table>
 
-## AI, Automation & Agentic Engineering
+## E-commerce & Merchant Platform Expertise
 
-I work across the practical AI stack—from connecting tools and orchestrating workflows to building AI-enabled business experiences.
+My commerce experience includes Magento 2 implementations and customizations, headless storefronts, GraphQL integrations, and multi-store / multi-website environments.
 
-| Capability | What it enables |
+- **Merchant workflows:** product catalog management, search and discovery, merchandising concepts, store configuration, and commerce integrations.
+- **Roles & permissions:** merchant/admin role concepts, access control, and permission-aware workflows; implementation depends on the platform and project requirements.
+- **Catalog & APIs:** product data, GraphQL and REST APIs, storefront integration, and external service connections.
+- **Headless commerce:** React / Next.js storefronts connected to Magento services.
+- **Enterprise delivery:** debugging, performance investigation, environment configuration, and maintainable customizations.
+
+## Full-Stack Engineering
+
+| Area | Technologies & experience |
 |---|---|
-| **MCP (Model Context Protocol)** | Connect AI assistants and agents with structured tools, services, commerce systems, and infrastructure. |
-| **n8n** | Automate multi-step business processes, API integrations, webhooks, and AI-enabled workflows. |
-| **Hermes Agent** | Explore agentic workflows and tool-using assistants for repeatable technical and operational tasks. |
-| **Grokbot** | Include bot-based AI interactions and automation in the broader assistant/workflow toolkit where applicable. |
-| **AI Automation** | Reduce repetitive work by combining models, tools, business rules, and integrations. |
-| **AI Search & RAG** | Improve discovery and answer relevance using semantic retrieval, embeddings, and grounded context. |
-| **Voice AI** | Design conversational workflows with speech technologies, telephony integrations, and Indian-language use cases. |
-
-## Technical Expertise
-
-<div align="center">
-
-![Magento](https://img.shields.io/badge/Magento%202-EE672F?style=flat-square&logo=magento&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
-| Domain | Technologies & practices |
-|---|---|
-| Commerce | Magento 2, GraphQL, REST APIs, headless commerce, PWA |
-| Frontend | React, Next.js, TypeScript, JavaScript, AngularJS, Ionic |
+| Frontend | React, Next.js, TypeScript, JavaScript, AngularJS, Ionic / Capacitor |
 | Backend | PHP, Laravel, Node.js, CodeIgniter |
-| Data & caching | MySQL, MariaDB, PostgreSQL, Redis |
-| Search & AI | OpenSearch, Elasticsearch, Typesense, semantic search, embeddings, RAG concepts |
-| Integration | REST, GraphQL, MCP, third-party services, commerce integrations |
+| Commerce | Magento 2, GraphQL, REST APIs, headless commerce, PWA |
+| Databases & caching | MySQL, MariaDB, PostgreSQL, Redis |
+| Search | OpenSearch, Elasticsearch, Typesense, semantic-search concepts |
+| Integration | REST, GraphQL, webhooks, MCP, third-party services |
 | Infrastructure | Linux, Ubuntu, Docker, PM2, CI/CD workflows |
-| Automation | n8n, agent workflows, webhooks, AI-enabled business processes |
+| Content platforms | WordPress, Strapi |
+| Engineering practices | Solution architecture, debugging, maintainability, performance, delivery planning |
 
 ## Selected Engineering Projects
 
 - [**Magento 2 MCP Server**](https://github.com/sagardoshi72427/magento2-mcp-server) — MCP integration work for Magento and AI-assisted commerce workflows.
 - [**SSH MCP**](https://github.com/sagardoshi72427/ssh-mcp) — SSH control for Linux servers through an MCP server.
-- [**NexorAIQ.io**](https://github.com/sagardoshi72427/NexoraIQ.io) — repository associated with the NexorAIQ initiative.
+- [**Hermes AI Stack**](https://github.com/sagardoshi72427/hermes-ai-stack) — repository for exploring an AI-agent stack.
+- [**NexorAIQ repository**](https://github.com/sagardoshi72427/NexoraIQ.io) — repository associated with the NexorAIQ initiative.
 - [**TalklyAI ecosystem**](https://github.com/sagardoshi72427/talklyai-ecosystem) — TalklyAI product ecosystem repository.
 - [**JainSphere**](https://github.com/sagardoshi72427/jainSphere) — JainSphere product repository.
 
-## Engineering Principles
+## How I Approach Projects
 
-**Architect thoughtfully. Build pragmatically. Improve continuously.**
+**Understand the problem. Design the system. Automate thoughtfully. Deliver reliably.**
 
-I value clear technical decisions, maintainable code, reliable integrations, and collaborative delivery. I enjoy working across the full product lifecycle—from discovery and solution design to implementation, deployment, and ongoing improvement.
+I focus on practical outcomes, clear architecture, maintainable code, responsible integrations, and transparent communication. For AI workflows, I pay particular attention to permissions, validation, error handling, human review where appropriate, and operational reliability.
 
-## Connect
+## Let's Connect
+
+Available for conversations and project opportunities involving AI automation, MCP integrations, n8n workflows, AI search, voice AI, Magento / headless commerce, React / Next.js, Laravel / Node.js, and solution architecture.
 
 - **GitHub:** [@sagardoshi72427](https://github.com/sagardoshi72427)
-- **Meghraj Technosoft:** [LinkedIn company page](https://www.linkedin.com/company/13464927/)
+- **Company:** [Meghraj Technosoft on LinkedIn](https://www.linkedin.com/company/13464927/)
 - **NexorAIQ:** [nexoraiq.tech](https://www.nexoraiq.tech/)
 - **TalklyAI:** [talklyai.in](https://talklyai.in/)
 - **JainSphere:** [jainsphere.in](https://jainsphere.in/)
@@ -144,6 +142,6 @@ I value clear technical decisions, maintainable code, reliable integrations, and
 
 <div align="center">
 
-*Building dependable software and exploring what becomes possible when AI meets real-world workflows.*
+*15+ years in engineering. Building practical AI, automation, commerce, and digital solutions.*
 
 </div>
