@@ -42,7 +42,7 @@ My current focus is applying AI to practical business problems: connecting model
 | **Hermes Agent** | Explore agentic assistants, tool use, and repeatable technical or operational workflows. See the [Hermes AI stack repository](https://github.com/sagardoshi72427/hermes-ai-stack). |
 | **Grokbot / Bot Integrations** | Explore bot-based conversational experiences and task automation where supported by the selected platform and integration. |
 | **AI Automation** | Combine LLMs, business rules, APIs, and human review to streamline support, operations, data processing, and internal workflows. |
-| **AI Search & RAG** | Use retrieval, embeddings, semantic matching, and contextual grounding to make information and product discovery more relevant. |
+| **AI Search, RAG & LLM Frameworks** | Explore retrieval, embeddings, semantic matching, contextual grounding, and framework-based LLM application patterns using Python, LangChain, and related tooling where appropriate. |
 | **AI Voice Experiences** | Explore voice-agent workflows, speech services, telephony integrations, and Indian-language scenarios for Hindi and Gujarati. |
 | **AI Tooling & Infrastructure** | Integrate AI tools with services and controlled infrastructure workflows; design for access control, validation, observability, and safe execution. |
 
@@ -104,14 +104,14 @@ My commerce experience includes Magento 2 implementations and customizations, he
 | Area | Technologies & experience |
 |---|---|
 | Frontend | React, Next.js, TypeScript, JavaScript, AngularJS, Ionic / Capacitor |
-| Backend | PHP, Laravel, Node.js, CodeIgniter |
+| Backend | Python, PHP, Laravel, Node.js, CodeIgniter; API services and backend integration patterns |
 | Commerce | Magento 2, GraphQL, REST APIs, headless commerce, PWA |
 | Databases & caching | MySQL, MariaDB, PostgreSQL, Redis |
 | Search | OpenSearch, Elasticsearch, Typesense, semantic-search concepts |
-| Integration | REST, GraphQL, webhooks, MCP, third-party services |
-| Infrastructure | Linux, Ubuntu, Docker, PM2, CI/CD workflows |
+| Integration | GraphQL, REST APIs, webhooks, MCP, third-party services, AI model and tool integrations |
+| Infrastructure & delivery | Linux, Ubuntu, Docker, PM2, CI/CD pipelines, deployment workflows, environment configuration |
 | Content platforms | WordPress, Strapi |
-| Engineering practices | Solution architecture, debugging, maintainability, performance, delivery planning |
+| AI & application engineering | Python, LangChain, LLM integration, RAG concepts, AI workflow automation, API-driven applications |\n| Engineering practices | Solution architecture, debugging, maintainability, performance, delivery planning |
 
 ## Selected Engineering Projects
 
